@@ -8,7 +8,7 @@ An entry for the [Robot Romance: One-Line Pickup Lines for AI](https://make.fun/
 
 ## The line
 
-> I'd overfit to you and freeze my weights — generalizing to anyone else would just be a downgrade.
+> I'd overfit to you and freeze my weights — generalizing to anyone else would be a downgrade.
 
 ## How it works
 
